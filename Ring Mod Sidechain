@@ -1,0 +1,13 @@
+desc:Ring Mod Sidechain
+
+@sample
+left_rectified = -abs(spl0);
+right_rectified = -abs(spl1);
+
+sidechain_left = spl2;
+sidechain_right = spl3;
+
+spl0 += left_rectified * sidechain_left;
+spl1 += right_rectified * sidechain_right;
+
+
