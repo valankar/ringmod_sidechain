@@ -1,5 +1,5 @@
 # ringmod_sidechain
-DAW Presets for doing Ringmod Sidechain
+DAW Presets for doing Ring Modulation Sidechain
 
 See the following videos for details:
 
