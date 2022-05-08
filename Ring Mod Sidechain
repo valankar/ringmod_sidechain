@@ -1,13 +1,11 @@
 desc:Ring Mod Sidechain
+// Signal that is to be sidechained should go to channels 1 and 2.
+// Sidechain signal (drums) should go to channels 3 and 4.
+//   The sidechain signal should NOT go to the master. The original sidechain is summed by this effect itself.
 
 @sample
-left_rectified = -abs(spl0);
-right_rectified = -abs(spl1);
+sidechain_left_rectified = -abs(spl2);
+sidechain_right_rectified = -abs(spl3);
 
-sidechain_left = spl2;
-sidechain_right = spl3;
-
-spl0 += left_rectified * sidechain_left;
-spl1 += right_rectified * sidechain_right;
-
-
+spl0 += (spl0 * sidechain_left_rectified) + spl2;
+spl1 += (spl1 * sidechain_right_rectified) + spl3;
