@@ -32,3 +32,7 @@ Reaper track template using one track. It requires Melda MWaveshaper and MRingMo
 ### [Ring Mod Sidechain.RTrackTemplate](Ring%20Mod%20Sidechain.RTrackTemplate)
 
 Reaper track template using multiple tracks in a folder. It requires Melda MWaveshaper and MRingModulator devices.
+
+### [example project.zip](example%20project.zip)
+
+Example Reaper project using the JSFX implementation. It shows the track routing needed.
