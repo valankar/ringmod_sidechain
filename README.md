@@ -35,4 +35,4 @@ Reaper track template using multiple tracks in a folder. It requires Melda MWave
 
 ### [example project.zip](example%20project.zip)
 
-Example Reaper project using the JSFX implementation. It shows the track routing needed.
+Example Reaper project using the JSFX implementation. It shows the track routing needed. WARNING: LOWER YOUR VOLUME.
