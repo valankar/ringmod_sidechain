@@ -33,6 +33,10 @@ To install, in Reaper go to `Options -> Show Reaper resource path ...` and add t
 
 Reaper JSFX implementation. To install, add this file in the `Effects` subdirectory.
 
+#### [Ring Mod Sidechain JSFX.RTrackTemplate](Ring%20Mod%20Sidechain%20JSFX.RTrackTemplate)
+
+Reaper track template using JSFX. To install, add this file in the `TrackTemplates` subdirectory.
+
 #### [Ring Mod Sidechain One Track.RTrackTemplate](Ring%20Mod%20Sidechain%20One%20Track.RTrackTemplate)
 
 Reaper track template using one track. It requires Melda MWaveshaper and MRingModulator devices. To install, add this file in the `TrackTemplates` subdirectory.
