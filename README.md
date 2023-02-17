@@ -13,9 +13,11 @@ https://youtu.be/R6iOPs8Ol2o
 
 https://youtu.be/OzLEwdcDXWo
 
-Reaper thread:
+Reaper threads:
 
 https://forum.cockos.com/showthread.php?t=263999
+
+https://forum.cockos.com/showthread.php?t=276028
 
 ## Files
 
