@@ -25,7 +25,7 @@ Bitwig Grid FX implementation.
 
 ### [Ring Mod Sidechain](Ring%20Mod%20Sidechain)
 
-JSFX implementation. To install, in Reaper go to `Options -> Show Reaper resource path ...` and add this file in the `Effects` subdirectory.
+Reaper JSFX implementation. To install, in Reaper go to `Options -> Show Reaper resource path ...` and add this file in the `Effects` subdirectory.
 
 ### [Ring Mod Sidechain One Track.RTrackTemplate](Ring%20Mod%20Sidechain%20One%20Track.RTrackTemplate)
 
