@@ -19,22 +19,28 @@ https://forum.cockos.com/showthread.php?t=263999
 
 ## Files
 
-### [RM_sidechain.bwpreset](RM_sidechain.bwpreset)
+### Bitwig
+
+#### [RM_sidechain.bwpreset](RM_sidechain.bwpreset)
 
 Bitwig Grid FX implementation.
 
-### [Ring Mod Sidechain](Ring%20Mod%20Sidechain)
+### Reaper
 
-Reaper JSFX implementation. To install, in Reaper go to `Options -> Show Reaper resource path ...` and add this file in the `Effects` subdirectory.
+To install, in Reaper go to `Options -> Show Reaper resource path ...` and add the file in the subdirectory below.
 
-### [Ring Mod Sidechain One Track.RTrackTemplate](Ring%20Mod%20Sidechain%20One%20Track.RTrackTemplate)
+#### [Ring Mod Sidechain](Ring%20Mod%20Sidechain)
 
-Reaper track template using one track. It requires Melda MWaveshaper and MRingModulator devices.
+Reaper JSFX implementation. To install, add this file in the `Effects` subdirectory.
 
-### [Ring Mod Sidechain.RTrackTemplate](Ring%20Mod%20Sidechain.RTrackTemplate)
+#### [Ring Mod Sidechain One Track.RTrackTemplate](Ring%20Mod%20Sidechain%20One%20Track.RTrackTemplate)
 
-Reaper track template using multiple tracks in a folder. It requires Melda MWaveshaper and MRingModulator devices.
+Reaper track template using one track. It requires Melda MWaveshaper and MRingModulator devices. To install, add this file in the `TrackTemplates` subdirectory.
 
-### [example project.zip](example%20project.zip)
+#### [Ring Mod Sidechain.RTrackTemplate](Ring%20Mod%20Sidechain.RTrackTemplate)
+
+Reaper track template using multiple tracks in a folder. It requires Melda MWaveshaper and MRingModulator devices. To install, add this file in the `TrackTemplates` subdirectory.
+
+#### [example project.zip](example%20project.zip)
 
 Example Reaper project using the JSFX implementation. It shows the track routing needed. WARNING: LOWER YOUR VOLUME.
