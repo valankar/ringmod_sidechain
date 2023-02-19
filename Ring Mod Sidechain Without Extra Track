@@ -1,0 +1,12 @@
+desc:Ring Mod Sidechain Without Extra Track
+// Signal that is to be sidechained should go to channels 1 and 2.
+// Sidechain signal (drums) should go to channels 3 and 4.
+
+@sample
+sidechain_left_rectified = -abs(spl2);
+sidechain_right_rectified = -abs(spl3);
+
+spl0 += (spl0 * sidechain_left_rectified);
+spl1 += (spl1 * sidechain_right_rectified);
+
+
