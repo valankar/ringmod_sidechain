@@ -41,7 +41,7 @@ Bitwig example project/template that uses Grid FX.
 
 #### [Ringmod Sidechain MXXX.bwtemplate.zip](Ringmod%20Sidechain%20MXXX.bwtemplate.zip)
 
-Bitwig example project/template that uses MXXX instead of Grid FX.
+Bitwig example project/template that uses MXXX instead of Grid FX. This is what I use, as it does not add any latency and bugs seen with Grid FX.
 
 ### Reaper
 
