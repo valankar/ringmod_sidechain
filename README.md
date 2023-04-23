@@ -19,6 +19,10 @@ https://forum.cockos.com/showthread.php?t=263999
 
 https://forum.cockos.com/showthread.php?t=276028
 
+Reason threads:
+
+https://forum.reasontalk.com/viewtopic.php?p=601496
+
 ## Files
 
 ### Bitwig
@@ -26,6 +30,18 @@ https://forum.cockos.com/showthread.php?t=276028
 #### [RM_sidechain.bwpreset](RM_sidechain.bwpreset)
 
 Bitwig Grid FX implementation.
+
+#### [RM_sidechain_v2.bwpreset](RM_sidechain_v2.bwpreset)
+
+Bitwig Grid FX implementation. Simpler version that seems to work better.
+
+#### [Ring Mod Sidechain Grid FX.bwtemplate.zip](Ring%20Mod%20Sidechain%20Grid%20FX.bwtemplate.zip)
+
+Bitwig example project/template that uses Grid FX.
+
+#### [Ringmod Sidechain MXXX.bwtemplate.zip](Ringmod%20Sidechain%20MXXX.bwtemplate.zip)
+
+Bitwig example project/template that uses MXXX instead of Grid FX.
 
 ### Reaper
 
