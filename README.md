@@ -33,7 +33,7 @@ Bitwig Grid FX implementation.
 
 #### [RM_sidechain_v2.bwpreset](RM_sidechain_v2.bwpreset)
 
-Bitwig Grid FX implementation. This version uses lower level modules that seems to work better. The Rectifier device in the other version appears to introduce some random latency causing it to not sum right and go over 0db in tests.
+Bitwig Grid FX implementation v2. This is a simpler version.
 
 #### [Ring Mod Sidechain Grid FX.bwtemplate.zip](Ring%20Mod%20Sidechain%20Grid%20FX.bwtemplate.zip)
 
@@ -41,7 +41,7 @@ Bitwig example project/template that uses Grid FX.
 
 #### [Ringmod Sidechain MXXX.bwtemplate.zip](Ringmod%20Sidechain%20MXXX.bwtemplate.zip)
 
-Bitwig example project/template that uses MXXX instead of Grid FX. This is what I use, as it does not add any latency and bugs seen with Grid FX.
+Bitwig example project/template that uses MXXX instead of Grid FX. The main difference is it does not add any latency as seen with Grid FX.
 
 ### Reaper
 
