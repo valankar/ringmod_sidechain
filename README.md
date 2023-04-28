@@ -66,3 +66,9 @@ Reaper track template using Melda plugins. This is the extra bus track. To insta
 #### [example projects.zip](example%20projects.zip)
 
 Example Reaper projects using the above setups to understand the routing needed.
+
+### Reason
+
+#### [Ringmod Sidechain MXXX Example Reason Project.zip](Ringmod%20Sidechain%20MXXX%20Example%20Reason%20Project.zip)
+
+Example Reason project using MXXX.
