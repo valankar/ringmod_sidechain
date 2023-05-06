@@ -63,6 +63,10 @@ Reaper track template using JSFX. This is the extra bus track. To install, add t
 
 Reaper track template using Melda plugins. This is the extra bus track. To install, add this file in the `TrackTemplates` subdirectory.
 
+#### [Ring Mod Sidechain MXXX.RTrackTemplate](Ring%20Mod%20Sidechain%20MXXX.RTrackTemplate)
+
+Reaper track template using one Melda MXXX1. This is the extra bus track. To install, add this file in the `TrackTemplates` subdirectory.
+
 #### [example projects.zip](example%20projects.zip)
 
 Example Reaper projects using the above setups to understand the routing needed.
